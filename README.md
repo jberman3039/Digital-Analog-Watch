@@ -3,4 +3,4 @@ The "Digital Analog Watch" is an ATTiny85-based project that displays hours and 
 
 # PCB
 The PCB was designed in KiCad 9.0.
-(/images/PCB.png)
+(https://github.com/jberman3039/Digital-Analog-Watch/blob/main/images/PCB.png)
